@@ -2,7 +2,7 @@ This directory contains minimal exe stuff for gofer on windows
 
 [Thanks Sikander Tamboli for an early compile]
 
-1. =pug64.exe= of course needs to be on your path (or call with absolute path)
+1. =pug.exe= of course needs to be on your path (or call with absolute path)
 2. You need to set the environment variable =PUG= to the path of the chosen prelude;
    
    eg. =set PUG=Z:/path/to/pug/langlevels/pug.pre= before starting =pug64=.
